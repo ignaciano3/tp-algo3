@@ -8,8 +8,8 @@ Ajedrez (voy a ver si puedo realizar la variante duck)
 
 ### Patron de diseño:
 - Observer: Cuando se mueve una pieza pueden ocurrir cambios en otras piezas. Por ejemplo:
-![error](board2.jpeg "Chess board")
-![error](board.jpeg "Chess board") <br/>
+![error](board2.jpeg "Black to move")
+![error](board.jpeg "White to move") <br/>
 Aquí se puede ver que el caballo hace jaque al rey, el cual debe ser avisado para ser movido.
 Ya que a la vez, no se puede comer el caballo con el peón ya que esta "clavado" por la torre que quedo descubierta
 
