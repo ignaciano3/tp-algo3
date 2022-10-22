@@ -6,8 +6,10 @@ Ignacio García Pizales
 ### Juego
 Ajedrez (voy a ver si puedo realizar la variante duck)
 
-### Patron de diseño:
-- Observer: Cuando se mueve una pieza pueden ocurrir cambios en otras piezas. Por ejemplo:
+### Patron de diseño (1 de estos 2):
+- Observer: Cuando se mueve una pieza pueden ocurrir cambios en otras piezas.
+- State: Un estado puede ser "en jaque" o "clavado"
+Por ejemplo:
 ![error](board2.jpeg "Black to move")
 ![error](board.jpeg "White to move") <br/>
 Aquí se puede ver que el caballo hace jaque al rey, el cual debe ser avisado para ser movido.
