@@ -6,7 +6,8 @@ Ignacio García Pizales
 ### Juego
 Ajedrez (voy a ver si puedo realizar la variante duck)
 
-### Patron de diseño: me voy a fijar
+### Patron de diseño:
+- Observer: Cuando se mueve una pieza pueden ocurrir cambios en otras piezas. Por ejemplo: se puede hacer jaque (de esa pieza) o otra que se libera
 
 Links de interes:
 - https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess#duck-chess
