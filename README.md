@@ -8,7 +8,7 @@ Ajedrez (voy a ver si puedo realizar la variante duck)
 
 ### Patron de diseño:
 - Observer: Cuando se mueve una pieza pueden ocurrir cambios en otras piezas. Por ejemplo:
-![alt text](board.jpeg "Title")
+![error](board2.jpeg "Chess board")
 
 Links de interes:
 - https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess#duck-chess
