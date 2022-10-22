@@ -10,7 +10,8 @@ Ajedrez (voy a ver si puedo realizar la variante duck)
 - Observer: Cuando se mueve una pieza pueden ocurrir cambios en otras piezas. Por ejemplo:
 ![error](board2.jpeg "Chess board")
 ![error](board.jpeg "Chess board") <br/>
-Aquí se puede ver que el caballo hace jaque al rey, el cual debe ser avisado para ser movido. A la vez, no se puede comer el caballo con el peon ya que esta "clavado" por la torre que quedo descubierta
+Aquí se puede ver que el caballo hace jaque al rey, el cual debe ser avisado para ser movido.
+Ya que a la vez, no se puede comer el caballo con el peón ya que esta "clavado" por la torre que quedo descubierta
 
 Links de interes:
 - https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess#duck-chess
