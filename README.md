@@ -6,7 +6,7 @@ Ignacio García Pizales
 ### Juego
 Ajedrez (voy a ver si puedo realizar la variante duck)
 
-### Patron de diseño (1 de estos 2):
+### Patron de diseño:
 - Strategy: Jugador humano y Jugador IA
 
 Links de interes:
