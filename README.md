@@ -12,4 +12,5 @@ Ajedrez (voy a ver si puedo realizar la variante duck)
 Links de interes:
 - https://www.chess.com/news/view/chesscom-launches-duck-seirawan-setup-chess#duck-chess
 - https://www.youtube.com/watch?v=U4ogK0MIzqk&t=23s (esta muy bueno este video si podes verlo por gusto)
+- https://www.chess.com/terms/fen-chess (más sobre la notación fen)
 
