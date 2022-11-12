@@ -17,5 +17,12 @@ Links de interes:
 - https://www.chess.com/terms/en-passant (más sobre en-passant)
 - https://www.chess.com/lessons/playing-the-game/castling
 
-
-Separar vista de controlador
+Me falta arreglar:
+- Concepto de jaque, jaque mate
+- Victoria, derrota, tablas
+- Arreglar vista (movimientos especiales)
+- Arreglar todos los movimientos pseudolegales
+- Que de alguna manera pueda exportar info desde board
+- hacer strategy humano / bot
+- agregar promociones de peon
+- separar lo visual / auditivo de la vista de lo funcional 
