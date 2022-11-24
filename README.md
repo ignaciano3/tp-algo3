@@ -19,3 +19,5 @@ Links de interes:
 - https://www.chess.com/terms/fen-chess (más sobre la notación fen)
 - https://www.chess.com/terms/en-passant (más sobre en-passant)
 - https://www.chess.com/lessons/playing-the-game/castling
+
+No funciona el cronometro, hacerlo en java es increiblemente dificil y ralentiza mucho la ejecución del programa que en si ya esta muy cargada.
