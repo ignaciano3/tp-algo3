@@ -6,7 +6,7 @@ Ignacio García Pizales
 ### Juego
 Ajedrez
 
-Al iniciar el programa, abrir la clase App de Vista
+Al iniciar el programa, abrir la clase App de Vista \
 ![Menu](menu.png)
 ![Board](board.png)
 
