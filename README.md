@@ -6,6 +6,9 @@ Ignacio García Pizales
 ### Juego
 Ajedrez
 
+![Menu](menu.png)
+![Board](board.png)
+
 ### Patron de diseño:
 - Strategy: Jugador humano (no se muy bien que hacer con el humano) y Jugador IA
 - Otros mini-patrones que use: 
