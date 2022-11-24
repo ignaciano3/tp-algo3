@@ -7,7 +7,7 @@ Ignacio García Pizales
 Ajedrez
 
 ### Patron de diseño:
-- Strategy: Jugador humano y Jugador IA
+- Strategy: Jugador humano (no se muy bien que hacer con el humano) y Jugador IA
 - Otros mini-patrones que use: 
   - Simple Factory (para crear las piezas)
 
@@ -16,13 +16,3 @@ Links de interes:
 - https://www.chess.com/terms/fen-chess (más sobre la notación fen)
 - https://www.chess.com/terms/en-passant (más sobre en-passant)
 - https://www.chess.com/lessons/playing-the-game/castling
-
-Me falta arreglar:
-- Concepto de jaque, jaque mate
-- Victoria, derrota, tablas
-- Arreglar vista (movimientos especiales)
-- Arreglar todos los movimientos pseudolegales
-- Que de alguna manera pueda exportar info desde board
-- hacer strategy humano / bot
-- agregar promociones de peon
-- separar lo visual / auditivo de la vista de lo funcional 
