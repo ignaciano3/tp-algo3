@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="vista.SceneController">
+   <children>
+      <Label layoutX="30.0" layoutY="34.0" text="Algunos comentarios">
+         <font>
+            <Font name="SansSerif Bold" size="18.0" />
+         </font>
+      </Label>
+      <VBox alignment="TOP_CENTER" layoutX="27.0" layoutY="75.0" prefHeight="235.0" prefWidth="557.0" style="-fx-padding: 5; -fx-spacing: 15;">
+         <children>
+            <Text fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="Funcionan los jaques pero no los jaques a la descubierta." wrappingWidth="546.0">
+               <font>
+                  <Font name="SansSerif Regular" size="13.0" />
+               </font>
+            </Text>
+            <Text fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="Es posible que se lagee un poco el primer movimiento usando el drag and drop" wrappingWidth="547.0">
+               <font>
+                  <Font name="SansSerif Regular" size="13.0" />
+               </font>
+            </Text>
+            <Text fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="La IA hace movimientos random pero si puede comer una pieza lo hace, tambien si recibe un jaque trata de moverse pero a veces se mueve para otro lugar que tambien esta en jaque" wrappingWidth="547.0">
+               <font>
+                  <Font name="SansSerif Regular" size="13.0" />
+               </font>
+            </Text>
+            <Text fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="No esta contemplado que el jugador suicide su rey, sea o no queriendo. La IA si puede comerselo se lo va a comer." wrappingWidth="546.0">
+               <font>
+                  <Font name="SansSerif Regular" size="13.0" />
+               </font>
+            </Text>
+            <Text fontSmoothingType="LCD" strokeType="OUTSIDE" strokeWidth="0.0" text="Se promociona automaticamente a reina ya que es la mas usada pero se puede llegar a cambiar poniendo otra promocion preferida" wrappingWidth="546.0">
+               <font>
+                  <Font name="SansSerif Regular" size="13.0" />
+               </font>
+            </Text>
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </VBox>
+      <Button layoutX="514.0" layoutY="339.0" mnemonicParsing="false" onAction="#mostrarMenu" text="Volver" />
+   </children>
+</AnchorPane>
